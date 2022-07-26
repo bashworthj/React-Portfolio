@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/React-Portfolio/static/js/main.8c8eb2c7.js",
-    "static/js/787.6c5cc455.chunk.js": "/React-Portfolio/static/js/787.6c5cc455.chunk.js",
-    "static/media/logo.svg": "/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/React-Portfolio/index.html",
-    "main.073c9b0a.css.map": "/React-Portfolio/static/css/main.073c9b0a.css.map",
-    "main.8c8eb2c7.js.map": "/React-Portfolio/static/js/main.8c8eb2c7.js.map",
-    "787.6c5cc455.chunk.js.map": "/React-Portfolio/static/js/787.6c5cc455.chunk.js.map"
+    "main.css": "/React-Portfolio/react-gh-pages/static/css/main.0d8492e7.css",
+    "main.js": "/React-Portfolio/react-gh-pages/static/js/main.a3f143cc.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/react-gh-pages/static/js/787.a2cb61a6.chunk.js",
+    "static/media/pencils.jpg": "/React-Portfolio/react-gh-pages/static/media/pencils.136a4b53afc2db267f9b.jpg",
+    "static/media/pantry.png": "/React-Portfolio/react-gh-pages/static/media/pantry.6cca62f7ddeb800beb6e.png",
+    "static/media/book.png": "/React-Portfolio/react-gh-pages/static/media/book.bc29283fa03b7f08a784.png",
+    "static/media/me.JPG": "/React-Portfolio/react-gh-pages/static/media/me.f43463b9e3e804c2f5be.JPG",
+    "static/media/res.pdf": "/React-Portfolio/react-gh-pages/static/media/res.63152c5b678dfb856958.pdf",
+    "index.html": "/React-Portfolio/react-gh-pages/index.html",
+    "main.0d8492e7.css.map": "/React-Portfolio/react-gh-pages/static/css/main.0d8492e7.css.map",
+    "main.a3f143cc.js.map": "/React-Portfolio/react-gh-pages/static/js/main.a3f143cc.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/react-gh-pages/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8c8eb2c7.js"
+    "static/css/main.0d8492e7.css",
+    "static/js/main.a3f143cc.js"
   ]
 }
