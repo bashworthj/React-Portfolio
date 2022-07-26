@@ -84,3 +84,8 @@ li:nth-child(even) {
 .symbols{
   color: rgb(250, 193, 61);
 }
+.wood{
+  font-weight: 300;
+  color: rgb(51, 99, 58);
+  font-style: italic;
+}
