@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+* {
+    background-color: #f7f7e0;
+  }
+.container{
+    text-align: center;
+    margin-top: 30vh;
+    padding: 10px;
+    color: rgb(42, 29, 52);    
+}
+.name{
+    font-size: 95px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+.pencil {
+    font-size: 40PX;
+    font-family: 'Caveat', cursive;
+    text-decoration: underline rgb(250, 232, 99);
+}
+.lighter{
+    font-size: 25px;
+    font-weight: 100;
+}
+.bigger{
+    font-size: 50px;
+    font-weight: 500;
+}
+.main-img{
+   background-image: url("../../Images/pencils.jpg");
+    width: 100%;
+    height: 106vh;
+    z-index: -1000;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-top: -100px;
+    border-bottom: 12px solid pink;
+}
+.explore{
+    font-size: 25px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    border: 6px solid pink;
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+}

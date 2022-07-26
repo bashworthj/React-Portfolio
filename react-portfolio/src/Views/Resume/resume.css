@@ -1,0 +1,21 @@
+
+
+.res-link {
+  margin-top: 10vh;
+  margin-bottom: 8vh;
+  padding: 0;
+  background-color: rgb(51, 99, 58);
+  ;
+  font-size: 60px;
+  padding: 50px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+.underline {
+  text-decoration: none;
+  color: #f7f7e0;
+
+}
+.underline:hover{
+  color: pink;
+}

@@ -1,0 +1,37 @@
+.connect{
+  margin-top: -80px;
+  margin-bottom: 8vh;
+  padding: 0;
+  background-color: rgb(250, 193, 61);
+  font-size: 60px;
+  padding: 12px;
+  color: rgb(51, 99, 58);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+.connect:hover{
+  color:#f7f7e0;
+}
+
+.email {
+  margin-top: -40px;
+  padding: 80px;
+}
+
+.social {
+  margin-top: -700px;
+  margin-bottom: 70PX;
+  font-size: 40px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+.inline{
+  display: inline;
+}
+.no-line{
+  text-decoration: none;
+  color: black;
+}
+.no-line:hover{
+  color: pink;
+}

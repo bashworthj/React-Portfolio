@@ -1,0 +1,86 @@
+.pic-bg {
+  background-color: pink;
+  text-align: center;
+}
+
+.me {
+  width: 85vh;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+  padding: 80px;
+  border: 3px solid pink;
+
+}
+
+.about {
+  font-size: 65px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  padding-bottom: 2vh;
+  
+}
+
+.about-info {
+  margin-top: 20px;
+  padding-bottom: 30px;
+}
+
+.bio {
+  font-size: 25px;
+  text-align: center;
+  padding: 8px;
+  width: 80%;
+  margin: auto;
+}
+.skills {
+  font-size: 20px;
+  text-align: center;
+  padding: 8px;
+  width: 80%;
+  margin: auto;
+}
+
+
+.goodat {
+  font-size: 44px;
+  margin-top: 12px;
+  font-family: 'Caveat', cursive;
+  color: black;
+  text-shadow: 5px 15px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.skillList {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.good {
+  list-style-type: none;
+}
+.learnin{
+  font-size: 44px;
+  font-family: 'Caveat', cursive;
+  color: black;
+  text-shadow: 5px 15px 10px rgba(0, 0, 0, 0.1);
+
+}
+.caption{
+  padding-top: 20px;
+  font-size: 35px;
+  text-decoration: underline pink;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  
+}
+li:nth-child(odd) {
+  color: rgb(51, 99, 58);
+}
+li:nth-child(even) {
+  color:  rgb(92, 114, 238);
+}
+.um{
+  font-size: 35px;
+  font-weight: lighter;
+}
+.symbols{
+  color: rgb(250, 193, 61);
+}
