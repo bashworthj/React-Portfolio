@@ -35,7 +35,7 @@ function About() {
               </ul>
             </p>
             <p className="future"> <span className="learnin">
-            <span className="symbols">	&#9826;</span> Here's a few things I'm currently working on: <span className="symbols">	&#9826;</span>
+            <span className="symbols">	&#9826;</span> Things I'm currently working on: <span className="symbols">	&#9826;</span>
               </span></p>
               <ul className=" skillList text-center">
                 <li className="good">Enhancing Web Design Skills</li>
