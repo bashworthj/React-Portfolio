@@ -34,7 +34,7 @@ function Footer() {
             <li className="email inline">
               <a
                 className="no-line"
-                href="https://github.com/bashworthj"
+                href="https://www.linkedin.com/in/ben-ashworth-3b7290246/"
                 target="_blank"
                 rel="noreferrer"
               >
