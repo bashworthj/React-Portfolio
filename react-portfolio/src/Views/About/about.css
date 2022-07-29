@@ -40,6 +40,7 @@
 }
 
 
+
 .goodat {
   font-size: 44px;
   margin-top: 12px;
@@ -52,6 +53,7 @@
 .skillList {
   margin: 0 auto;
   padding: 0;
+  font-size: 20px;
 }
 
 .good {
@@ -88,4 +90,46 @@ li:nth-child(even) {
   font-weight: 300;
   color: rgb(51, 99, 58);
   font-style: italic;
+}
+.short{
+  display: none;
+}
+@media screen and (max-width: 800px) {
+
+  .goodat {
+    font-size: 50px;
+  }
+  .symbols{
+    font-size: 30px;
+  }
+  .me {
+    width: 45vh;
+    margin-top: 7vh;
+    margin-bottom: 20vh;
+    padding: 25px;
+    border: 3px solid pink;
+  }
+  .pic-bg {
+   height: 400px;
+  }
+  .about{
+    margin-top: 40px;
+    text-decoration: underline rgb(250, 193, 61);
+  }
+  .caption,
+  .um{
+    display: none;
+  }
+  .bio{
+    font-size: 16px;
+  }
+  .short{
+    display: inline;
+  }
+  .full{
+    display: none;
+  }
+  .skillList{
+    font-size: 16px;
+  }
 }

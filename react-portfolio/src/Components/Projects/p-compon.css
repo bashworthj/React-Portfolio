@@ -69,3 +69,29 @@ li.nt
 
 
 }
+@media screen and (max-width: 800px) {
+
+  .p-name{
+    font-size: 42px;
+  }
+  .symbol{
+    font-size: 25px;
+  }
+  .repoBtn,
+  .siteBtn {
+  display: block;
+  margin: auto;
+  width: 40%;
+  height: 40px;
+  margin: 7px;
+}
+.btn-text{
+  font-size: 25px;
+}
+.btn-tex{
+  font-size: 25px;
+}
+.p-body{
+  font-size: 16px;
+}
+}

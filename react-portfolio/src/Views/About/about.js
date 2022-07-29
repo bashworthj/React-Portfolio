@@ -21,7 +21,7 @@ function About() {
             </p>
             <p className="skills">
               <span className="goodat">
-              <span className="symbols">	&#9826;</span> Here's a few things I'm good at: <span className="symbols">	&#9826;</span>
+              <span className="symbols">	&#9826;</span> <span className=".short">My Skills:</span><span className="full">Here's a few things I'm good at:</span> <span className="symbols">	&#9826;</span>
               </span>
               <ul className=" skillList text-center">
                 <li className="good">Communicating -absolutely my BEST quality</li>
@@ -35,7 +35,7 @@ function About() {
               </ul>
             </p>
             <p className="future"> <span className="learnin">
-            <span className="symbols">	&#9826;</span> Things I'm currently working on: <span className="symbols">	&#9826;</span>
+            <span className="symbols">	&#9826;</span> <span className=".short">Working on:</span><span className="full">Things I'm currently working on:</span><span className="symbols">	&#9826;</span>
               </span></p>
               <ul className=" skillList text-center">
                 <li className="good">Enhancing Web Design Skills</li>

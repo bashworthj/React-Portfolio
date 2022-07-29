@@ -22,7 +22,7 @@ function Pcompon(){
         <div className="col-md-9">
           <h4 className="p-name">	<span className="symbol">	&#9826;</span> Pantry Prepper <span className="symbol">&#9826;</span></h4>
           <div className="row info">
-            <p>Life can be a bit stale sometimes, we wanted to make a site that could deliver something new to the user.
+            <p className="p-body">Life can be a bit stale sometimes, we wanted to make a site that could deliver something new to the user.
                Being hungry for both food and knowledge, we decided to make a website that generates recipes that include the users desired ingredient of their choice.
                By levaraging two API's we were able to provide the user with an application where they can easily search a food item or ingerdient and then receive an array 
                of recipes including their searched ingredient. YUM!</p>
@@ -45,7 +45,7 @@ function Pcompon(){
             <div className="col-sm text-center">
               <a  href="https://kleylakb89.github.io/pantry-prepper/" target="_blank" className="a-link" rel="noreferrer">
                 <button type="button" className="btn btn-dark siteBtn">
-                <span className="btn-text">Live Site</span>                </button>
+                <span className="btn-text livebtn">Live Site</span>                </button>
               </a>
             </div>
           </div>
@@ -67,7 +67,7 @@ function Pcompon(){
         <div className="col-md-9">
           <h4 className="p-name"><span className="symbol">	&#9826;</span> Book Nook  <span className="symbol">	&#9826;</span></h4>
           <div className="row info">
-            <p>Welcome to BookNook! As many people still have a liking for physical books, this application bridges the gap between phyical and digital worlds, allowing
+            <p className="p-body">Welcome to BookNook! As many people still have a liking for physical books, this application bridges the gap between phyical and digital worlds, allowing
               the user to keep track of all the books they have read or would like to read. BookNook is a digital library where a user can add books to their 
               library keeping a record of their readings, as well as having the ability to add them to a favorites list and mark them as read whenever they finish that book.</p>
               <h5 className="techtitle">Technologies Used</h5>
