@@ -1,6 +1,6 @@
 import React from "react";
 import "./resume.css"
-import Pdf from "../Resume/res.pdf"
+import Pdf from "../Resume/Resume-Ben.pdf"
 
 function Resume() {
 

@@ -17,7 +17,7 @@ function About() {
             <p className="bio">
               After studying design at the University of Houston, I've spent the past few years focusing on clothing apparel design. In need 
               of a career change, I have found much happiness becoming a Full Stack Developer, allowing me to design and create web applications.
-              With this passion for design, I love delivering a product to clients they can proudly show off. In everything I do, I aim to make "that everyting" more awesome.
+              With this passion for design, I love delivering a product to clients they can proudly show off. In everything I do, I aim to make "that everything" more awesome.
             </p>
             <p className="skills">
               <span className="goodat">
