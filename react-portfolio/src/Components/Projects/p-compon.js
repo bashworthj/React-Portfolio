@@ -2,7 +2,7 @@ import React from "react";
 import "./p-compon.css"
 import img from "../../Images/pantry.png"
 import img2 from "../../Images/book.png"
-
+import img3 from "../../Images/cafe.png"
 
 function Pcompon(){
   return (
@@ -94,6 +94,56 @@ function Pcompon(){
             </div>
             <div className="col-sm text-center">
               <a href="https://dry-bastion-57106.herokuapp.com/login" target="_blank" className="a-link" rel="noreferrer">
+                <button type="button" className="btn btn-warning siteBtn plz">
+                  <span className="btn-tex">Live Site</span>
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div className="card mb-5">
+    <div className="card-body">
+      <div className="row ">
+        <div className="col-md-3 my-auto">
+          <img
+            src={img3}
+            alt="Cafe Clicker"
+            width="200px"
+            className="card-img img-fluid p-img"
+          />
+        </div>
+        <div className="col-md-9">
+          <h4 className="p-name"><span className="symbol">	&#9826;</span> Cafe Clicker  <span className="symbol">	&#9826;</span></h4>
+          <div className="row info">
+            <p className="p-body">Cafe Clicker is a cookie clicker/AdVenture Capitalist click game, where the goal is to build and expand your cafe. To play, all you do is click the avocado and you'll gain points. Earning enough points will allow you to buy the "AutoClicker" and "MultiClicker" powerups. 
+The more points you earn from clicking, the more attributes you get to add to your cafe. Once at a stopping point, you can save and submit your score. When youre ready to come back you can come back later using the load game button. If you want to restart, all you have to do is click the new game button and you'll be set back to square one. Have Fun!</p>
+              <h5 className="techtitle">Technologies Used</h5>
+            <ul className="tech-list">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascript</li>
+              <li>React.js</li>
+              <li>Apollo</li>
+              <li>NodeJS</li>
+              <li>Nodemon</li>
+              <li>Express</li>
+              <li>MongoDB</li>
+              <li>GraphQL</li>
+            </ul>
+          </div>
+          <div className="row">
+            <div className="col-sm text-center">
+              <a href="https://github.com/kleylakb89/cafe-clicker" target="_blank" className="a-link" rel="noreferrer">
+                <button type="button" className="btn btn-dark siteBtn">
+                <span className="btn-text">Repo Link</span>
+                </button>
+              </a>
+            </div>
+            <div className="col-sm text-center">
+              <a href="https://peaceful-oasis-22532.herokuapp.com/" target="_blank" className="a-link" rel="noreferrer">
                 <button type="button" className="btn btn-warning siteBtn plz">
                   <span className="btn-tex">Live Site</span>
                 </button>
